@@ -18,8 +18,11 @@ Research Experience
 Skin Lesion Classification Based on RGB Channel and Depth Information
 Research Intern, advised by [Prof. Yuye Ling](https://www.yuyeling.com).
 
+
 Secure Wireless Communication System with Adversarial Learning
 Leader of the project, advised by [Prof. Meng Jin](https://yume-sjtu.github.io/).
+
+
 
 
 
