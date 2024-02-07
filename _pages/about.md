@@ -12,7 +12,7 @@ redirect_from:
 
 I am a fourth-year undergraduate majoring in Information Engineering at Shanghai Jiao Tong University (SJTU). 
 
-Here's my [CV](/_pages/CV_Siqi_1214_github.pdf).
+Here's my [CV](/_pages/CV_20240207_Github.pdf).
 
 Research Experience
 ======
